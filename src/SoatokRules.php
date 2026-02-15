@@ -28,7 +28,7 @@ class SoatokRules
             'single_import_per_statement' => false,
             'blank_line_after_opening_tag' => false,
             'blank_line_between_import_groups' => false,
-            'soatok/wrap_long_import_statements' => ['line_length' => $lineLength],
+            'Soatok/wrap_long_import_statements' => ['line_length' => $lineLength],
             'blank_lines_before_namespace' => [
                 'min_line_breaks' => 1, 'max_line_breaks' => 1
             ],

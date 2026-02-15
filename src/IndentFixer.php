@@ -36,7 +36,7 @@ final class IndentFixer
 
     public function getName(): string
     {
-        return 'soatok/wrap_long_import_statements';
+        return 'Soatok/wrap_long_import_statements';
     }
 
     public function getDefinition(): FixerDefinitionInterface
