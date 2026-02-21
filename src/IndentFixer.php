@@ -61,7 +61,7 @@ final class IndentFixer
      */
     public function getPriority(): int
     {
-        return -1;
+        return -4;
     }
 
     public function isRisky(): bool
